@@ -1,7 +1,7 @@
 ### <i> Nice to See You!</i> 
 
 Hey there, I am an aspiring Data Scientist striving for experience. 
-I code in ![alt text](python.png) for heart and in ![alt text](java.png) for school.
+I code in ![python logo](logos/python.png) for heart and in ![java logo](logos/java.png) for school.
 <!--
 **dtemir/dtemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
