@@ -1,4 +1,4 @@
-    # hello, world -- check out my website (it should be under my email)
+    # hello, world -- check out my website (it should be below my email)
     
     def __init__(self):
         self.name = ('Damir','Temir')
