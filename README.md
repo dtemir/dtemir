@@ -1,7 +1,26 @@
-### <i> Nice to See You!</i> 
+    # hello, world -- check out my website (it should be under my email)
+    
+    def __init__(self):
+        self.name = ('Damir','Temir')
+        self.who = 'Aspiring Data Scientist'
+        self.where = 'University of Illinois'23'
+        self.from = 'Astana, Kazakhstan'
 
-Hey there, I am an aspiring Data Scientist striving for experience. 
-I code in ![python logo](logos/python.png) for heart and in ![java logo](logos/java.png) for school.
+
+    skills = { 
+    Know: [['Python3','Django','GCP'],['MySQL'],
+    ToLearn: ['R','Data Visualization','Linear Regression','Machine Learning'] }
+    
+    projects = {
+    BloggingApp: ('Django','Python','GCP','AWS S3','MySQL'),
+    CargoHold: ('Java') }
+    
+    courses = {
+    Taken: ['Harvard CS50'],
+    InProgress: ['Harvard CS50 Artificial Intelligence'] }
+    
+<small>let me know if that looks cheesy, lol, [LinkedIn](https://www.linkedin.com/in/damirtemir/) </small>
+    
 <!--
 **dtemir/dtemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
