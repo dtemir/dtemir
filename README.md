@@ -8,7 +8,7 @@
 
 
     skills = { 
-    Know: [['Python3','Django','GCP'],['MySQL']],
+    Know: ['Python3','Django','MySQL','GCP','Heroku',],
     ToLearn: ['R','Data Visualization','Linear Regression','Machine Learning'] }
     
     projects = {
