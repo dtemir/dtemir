@@ -1,9 +1,10 @@
 ### Hey, I'm Damir!
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.temir.dev)](https://www.temir.dev)
-[![Twitter Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13912197/damir-temir)
 
-## I'm a student at the University of Illinois!
+### I'm an aspiring Data Scientist at the University of Illinois!
 
 - 🔭 I recently launched my first Django website: [My Personal Blog](www.temir.dev)
 - 🌱 I’m currently taking Harvard's <i>CS50 Artificial Intelligence</i>: [Repository](https://github.com/dtemir/harvard-CS50AI)
@@ -19,6 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     
 <!--
 **dtemir/dtemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
