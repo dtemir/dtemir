@@ -8,9 +8,9 @@
 ### I'm an aspiring Data Scientist at the University of Illinois!
 
 - 🔭 I recently launched my first Django website: [My Personal Blog](https://www.temir.dev/)
-- 🌱 I’m currently taking Harvard's <i>CS50 Artificial Intelligence</i>: [Repository](https://github.com/dtemir/harvard-CS50AI)
+- 🌱 I’m currently taking IBM Data Science on Coursera: [Repository](https://github.com/dtemir/data-science-IBM)
 - :brain: I’m looking for experience in Data Science and Web Development
-- :star2: 2020 Goals: Finish CS50 Artificial Intelligence and begin their Professional Data Science program
+- :star2: 2021 Goals: Finish IBM Data Science Program and accomplish personal projects
 
 ### Languages and Tools:
 
