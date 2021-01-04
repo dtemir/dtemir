@@ -7,9 +7,9 @@
 
 ### I'm an aspiring Data Scientist at the University of Illinois!
 
-- 🔭 I recently launched my personal website using the Django Framework: [temir.dev](https://www.temir.dev/)
-- 🌱 I have recently finished IBM Data Science on Coursera: [Repository](https://github.com/dtemir/data-science-IBM)
-- :brain: I’m looking for experience in Data Science and Web Development
+- 🔭 Check out my personal website built using Django and deployed to Heroku: [temir.dev](https://www.temir.dev/)
+- 🌱 I recently finished the IBM Data Science course on Coursera: [Repository](https://github.com/dtemir/data-science-IBM)
+- :brain: I’m looking for experience in Data Science
 - :star2: 2021 Goals: Accomplish Data Science projects, write meaningful articles for Medium, and enjoy living :)
 
 ### Languages and Tools:
