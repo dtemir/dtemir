@@ -21,8 +21,12 @@
 
 <td style="text-align: center;">
 
+<p align="center">
+
 &nbsp; <br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtemir)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 </td>
 
