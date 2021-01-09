@@ -14,6 +14,7 @@
 <tr>
 <td style="text-align: center;">
 
+&nbsp; <br>
 [![Spotify](https://dtemir.vercel.app/api/spotify)](https://open.spotify.com/user/iu8euz0mkxgr32e0e3qbjl7w5)
 
 </td>
@@ -22,7 +23,7 @@
 
 &nbsp; <br>
 <a href="https://github.com/dtemir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtemir" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtemir&hide_border=True" />
 </a>
 
 </td>
