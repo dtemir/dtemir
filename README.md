@@ -1,4 +1,4 @@
-<table width="100%">
+<table style= "margin-left:auto; margin-right:auto; width:100%">
 
 <td style="text-align:center;"> 
 
