@@ -2,8 +2,7 @@
 
 <td style="text-align:center;"> 
 
-&nbsp; <br> 
-
+&nbsp; <br>
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.temir.dev)](https://www.temir.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
@@ -22,7 +21,8 @@
 
 <td style="text-align: center;">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dtemir)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; <br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtemir)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
