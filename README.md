@@ -3,7 +3,7 @@
 <td style="text-align:center;"> 
 
 &nbsp; <br>
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.temir.dev)](https://www.temir.dev)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=TEMIR.DEV&style=for-the-badge&up_color=green&up_message=UP&url=https://dtemir.github.io/)](https://dtemir.github.io/)
 [![Visits Badge](https://badges.pufler.dev/visits/dtemir/dtemir?style=for-the-badge&color=green)](https://github.com/dtemir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damirtemir/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13912197/damir-temir)
